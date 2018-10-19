@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="no">
+   <head>
+    <meta charset="UTF-8">
+    <title>Malaga</title>
+   </head>
+   <body>
+      <h1>Video av Malaga</h1>
+      <video src="https://www.youtube.com/watch?v=YNqMQz18HDM&t=22s"></video>
+   </body>
